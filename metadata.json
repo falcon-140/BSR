@@ -1,0 +1,5 @@
+{
+  "name": "Retro Retail Billing System",
+  "description": "A classic point-of-sale billing system for retailers, designed with a nostalgic 2018 user interface. It allows users to add products to a cart, manage quantities, calculate totals including tax, and finalize the bill.",
+  "requestFramePermissions": []
+}
